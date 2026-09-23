@@ -1,0 +1,11 @@
+name = "spin-mama-app-net"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "."
+
+[vars]
+REF_URL = "https://serffigxjssvpeo.help/RC2TZM?sub_id_3=spin-mama-app.net"
+HMAC_KEY = "55df8fce070753fdb0bd3a536a149a703cbf6141bdd0143909f8aa14dff5d324"
+COOKIE_NAME = "cnu"
+PLAY_PATH = "start"
+BUTTON_ID = "p98890d94bd87c83a9a89fe009d3fd814"
+GATE_SALT = "4bf1cb114c5c360e"
